@@ -1,6 +1,6 @@
 Name:		texlive-jigsaw
 Version:	63937
-Release:	1
+Release:	2
 Summary:	Draw jigsaw pieces with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jigsaw
