@@ -1,5 +1,5 @@
 Name:		texlive-jigsaw
-Version:	66009
+Version:	71923
 Release:	1
 Summary:	Draw jigsaw pieces with TikZ
 Group:		Publishing
