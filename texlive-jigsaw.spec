@@ -3,7 +3,7 @@ Version:	71923
 Release:	1
 Summary:	Draw jigsaw pieces with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jigsaw
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jigsaw
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jigsaw.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jigsaw.doc.r%{version}.tar.xz
